@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-						<mainClass>second.SecondClass</mainClass>
+						<mainClass>com.abc.eclipsepgm.second.SecondClass</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
